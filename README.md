@@ -1,6 +1,8 @@
 # 🏋️ LifeGym - Linktree Profissional
 
-![Banner LifeGym](preview.png)
+
+!<img width="1576" height="1576" alt="lifegymlogo" src="https://github.com/user-attachments/assets/f450aa1c-fe69-4f74-bdd3-2701f6710509" />
+
 
 ## 📋 Sobre o Projeto
 
@@ -31,11 +33,11 @@ Para garantir leveza e facilidade de manutenção, o projeto foi construído pur
 
 ---
 
-## 📸 Prévia do Design
+## 📸 Prévia do Projeto
 
-> **Nota**: Para que a imagem apareça no README, salve o print da tela como `preview.png` na pasta raiz do projeto.
 
-O layout conta com animações de *fade-in* escalonadas para os botões, criando uma experiência de usuário fluida e atraente desde o primeiro segundo de carregamento.
+<img width="1668" height="942" alt="image" src="https://github.com/user-attachments/assets/07808821-dd99-4322-931f-b2cfc12f3b97" />
+
 
 ---
 
@@ -44,7 +46,7 @@ O layout conta com animações de *fade-in* escalonadas para os botões, criando
 Este projeto foi desenvolvido por:
 
 **Vinicius Giraldi**
-- **GitHub**: [@giraldidev](https://github.com/giraldidev)
+- **Instagram**: [@giraldidev](https://www.instagram.com/giraldidev/)
 - **Instagram da Academia**: [@academia.lifegym](https://www.instagram.com/academia.lifegym/)
 
 ---
