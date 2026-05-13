@@ -168,6 +168,74 @@ footer p {
 .links-container > *:nth-child(4) { animation-delay: 0.4s; }
 .links-container > *:nth-child(5) { animation-delay: 0.5s; }
 
+/* Opening Hours Section */
+.opening-hours {
+    width: 100%;
+    margin-bottom: 40px;
+    animation: fadeIn 0.8s ease forwards;
+    animation-delay: 0.6s;
+    opacity: 0;
+}
+
+.section-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--primary-color);
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.hours-card {
+    background: var(--card-bg);
+    border: 1px solid rgba(255, 215, 0, 0.2);
+    border-radius: 16px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.hours-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    padding-bottom: 15px;
+}
+
+.hours-row:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.day {
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: var(--text-color);
+}
+
+.time-slots {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 4px;
+}
+
+.time {
+    font-weight: 400;
+    font-size: 0.9rem;
+    color: var(--primary-color);
+    background: rgba(255, 215, 0, 0.1);
+    padding: 4px 10px;
+    border-radius: 6px;
+}
+
 /* Responsive */
 @media (max-width: 480px) {
     .container {
@@ -177,5 +245,17 @@ footer p {
     .link-button {
         padding: 16px 20px;
         font-size: 0.95rem;
+    }
+
+    .hours-card {
+        padding: 20px;
+    }
+
+    .day {
+        font-size: 0.85rem;
+    }
+
+    .time {
+        font-size: 0.8rem;
     }
 }
