@@ -1,7 +1,7 @@
 # 🏋️ LifeGym - Linktree Profissional
 
 
-!<img width="1576" height="1576" alt="lifegymlogo" src="https://github.com/user-attachments/assets/f450aa1c-fe69-4f74-bdd3-2701f6710509" />
+<img width="1576" height="1576" alt="lifegymlogo" src="https://github.com/user-attachments/assets/f450aa1c-fe69-4f74-bdd3-2701f6710509" />
 
 
 ## 📋 Sobre o Projeto
